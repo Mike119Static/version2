@@ -4,6 +4,6 @@ using namespace std;
 int main(){
 
 
-    cout<<" hello cmake!!!!!!!!"<<endl;
+    cout<<" hello cmake go to hell!!!!!!!!"<<endl;
     return 0;
 }
